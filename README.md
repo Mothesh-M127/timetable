@@ -87,4 +87,9 @@ AD1(ECA051-AD) - Mentoring
 
 ```
 
-# OUPUT
+# OUPUT:
+
+![](./output.jpg)
+
+## RESULT:
+hence the timetable was created successfully
